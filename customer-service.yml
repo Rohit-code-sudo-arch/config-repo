@@ -2,7 +2,7 @@ spring:
   application:
     name: Customer-service
   datasource:
-    url: jdbc:mysql://localhost:3306/cust_dev
+    url: jdbc:mysql://localhost:3306/cust_master
     driverClassName: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
